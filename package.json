@@ -37,7 +37,7 @@
     "@types/request": "^2.48.2",
     "chai": "^4.2.0",
     "eslint": "^6.2.2",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "node-mocks-http": "^1.7.6",
     "nyc": "^14.1.1",
     "request": "^2.88.0"
