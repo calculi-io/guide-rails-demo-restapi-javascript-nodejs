@@ -30,14 +30,14 @@
     "config": "^3.2.2",
     "express": "^4.17.1",
     "mathjs": "^6.1.0",
-    "pm2": "^3.5.1"
+    "pm2": "^5.2.2"
   },
   "devDependencies": {
     "@types/chai": "^4.2.0",
     "@types/request": "^2.48.2",
     "chai": "^4.2.0",
     "eslint": "^6.2.2",
-    "mocha": "^6.2.0",
+    "mocha": "^6.2.3",
     "node-mocks-http": "^1.7.6",
     "nyc": "^14.1.1",
     "request": "^2.88.0"
